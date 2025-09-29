@@ -14,6 +14,8 @@ Modelo de Machine Learning para prever engajamento de professores na Olimpíada 
 - `API Alunos.csv`: 227.194 alunos participantes
 
 ## Como Usar
+### Google Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KaduNazareth/onee-2025-ml/blob/main/MVP_ONEE_2025.ipynb)
 
 ### Local
 ```python
